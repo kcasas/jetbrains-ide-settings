@@ -1,0 +1,29 @@
+<application>
+  <component name="EditorSettings">
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+  </component>
+  <component name="InspectionProfileManager">
+    <info color="525229">
+      <option name="FOREGROUND" value="9b9c19" />
+      <option name="BACKGROUND" value="9c7b18" />
+      <option name="EFFECT_COLOR" value="9b9c19" />
+      <option name="EFFECT_TYPE" value="2" />
+      <option name="myName" value="PSR2" />
+      <option name="myVal" value="50" />
+      <option name="myExternalName" value="PSR2" />
+      <option name="myDefaultAttributes" />
+    </info>
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="PSR2" />
+      <item index="1" class="java.lang.String" itemvalue="UNUSED ENTRY" />
+      <item index="2" class="java.lang.String" itemvalue="TYPO" />
+      <item index="3" class="java.lang.String" itemvalue="SERVER PROBLEM" />
+      <item index="4" class="java.lang.String" itemvalue="INFO" />
+      <item index="5" class="java.lang.String" itemvalue="WEAK WARNING" />
+      <item index="6" class="java.lang.String" itemvalue="WARNING" />
+      <item index="7" class="java.lang.String" itemvalue="ERROR" />
+    </list>
+  </component>
+</application>
