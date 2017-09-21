@@ -2,4 +2,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
+  <action id="EditorToggleShowLineNumbers">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
 </keymap>
