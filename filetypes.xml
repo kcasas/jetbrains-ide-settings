@@ -1,15 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore.dist" type="PLAIN_TEXT" />
-      <mapping pattern="yarn" type="PLAIN_TEXT" />
-      <mapping pattern="dev" type="PLAIN_TEXT" />
-      <mapping pattern=".yarnignore" type="PLAIN_TEXT" />
-      <mapping pattern="devtool" type="PLAIN_TEXT" />
-      <mapping pattern="lang_ignore" type="PLAIN_TEXT" />
       <mapping pattern=".irbrc" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".yarnignore" type="PLAIN_TEXT" />
+      <mapping pattern="yarn" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore.dist" type="PLAIN_TEXT" />
+      <mapping pattern="lang_ignore" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="ready" type="PLAIN_TEXT" />

@@ -1,6 +1,5 @@
 <application>
   <component name="EditorSettings">
-    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
@@ -17,7 +16,7 @@
     </info>
     <list size="8">
       <item index="0" class="java.lang.String" itemvalue="PSR2" />
-      <item index="1" class="java.lang.String" itemvalue="INFORMATION" />
+      <item index="1" class="java.lang.String" itemvalue="UNUSED ENTRY" />
       <item index="2" class="java.lang.String" itemvalue="TYPO" />
       <item index="3" class="java.lang.String" itemvalue="SERVER PROBLEM" />
       <item index="4" class="java.lang.String" itemvalue="INFO" />
