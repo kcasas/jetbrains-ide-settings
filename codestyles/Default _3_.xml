@@ -12,15 +12,11 @@
     </value>
   </option>
   <JSCodeStyleSettings>
-    <option name="FORCE_SEMICOLON_STYLE" value="true" />
-    <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="FORCE_QUOTE_STYlE" value="true" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
