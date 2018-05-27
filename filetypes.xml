@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="bit" type="PHP" />
       <mapping pattern=".irbrc" type="PLAIN_TEXT" />
       <mapping pattern=".yarnignore" type="PLAIN_TEXT" />
-      <mapping pattern="yarn" type="PLAIN_TEXT" />
-      <mapping pattern="ewan" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern="ewan" type="PLAIN_TEXT" />
+      <mapping pattern="yarn" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore.dist" type="PLAIN_TEXT" />
       <mapping pattern=".zat" type="PLAIN_TEXT" />
       <mapping pattern="tae" type="PLAIN_TEXT" />
