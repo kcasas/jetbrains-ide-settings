@@ -2,19 +2,20 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="bit" type="PHP" />
-      <mapping pattern=".irbrc" type="PLAIN_TEXT" />
-      <mapping pattern=".yarnignore" type="PLAIN_TEXT" />
-      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
-      <mapping pattern="ewan" type="PLAIN_TEXT" />
-      <mapping pattern="yarn" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore.dist" type="PLAIN_TEXT" />
-      <mapping pattern=".zat" type="PLAIN_TEXT" />
       <mapping pattern="tae" type="PLAIN_TEXT" />
-      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
+      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern="yarn" type="PLAIN_TEXT" />
+      <mapping pattern=".yarnignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore.dist" type="PLAIN_TEXT" />
       <mapping pattern="REVISION" type="PLAIN_TEXT" />
       <mapping pattern="lang_ignore" type="PLAIN_TEXT" />
+      <mapping pattern=".irbrc" type="PLAIN_TEXT" />
+      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
+      <mapping pattern=".zat" type="PLAIN_TEXT" />
+      <mapping pattern="ewan" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="ready" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
